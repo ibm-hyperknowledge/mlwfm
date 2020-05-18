@@ -19,5 +19,5 @@ Machine Learning Workflows (MLWfs) have become essential and a disruptive approa
 }
 ```
 
-## Licence
+## License
 All code is released under the [MIT License](https://github.com/ibm-hyperknowledge/mlwfm/blob/master/LICENSE).
